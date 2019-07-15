@@ -1,6 +1,6 @@
 # Text-2-Audio
 Text To Speech [Into File]— Python
-Converting Text into Speech is extremely easy. Lets see a simple example, how to convert a given text into an automated voice —
+Converting Text into Speech is extremely easy. How to convert a given text into an automated voice —
 
 Step#1: Install gtts library. Execute pip install gtts on Anaconda Shell, as we will be using Jupyter Notebook.
 
